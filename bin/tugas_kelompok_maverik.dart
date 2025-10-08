@@ -1,5 +1,6 @@
-import 'package:tugas_kelompok_maverik/tugas_kelompok_maverik.dart' as tugas_kelompok_maverik;
+class persegipanjang {
+  int panjang;
+  int lebar;
 
-void main(List<String> arguments) {
-  print('Hello world: ${tugas_kelompok_maverik.calculate()}!');
+  persegipanjang(this.panjang,this.lebar);
 }
