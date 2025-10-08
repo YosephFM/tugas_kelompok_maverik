@@ -21,6 +21,7 @@ void main(){
   var pp = persegipanjang(panjang, lebar);
   var keliling = pp.kelilingpersegipanjang();
   var luas = pp.luaspersegipanjang();
+  print('Menghitung Keliling dan Luas Persegi Panjang');
   print('Keliling Persegi Panjang: $keliling');
   print('Luas Persegi Panjang": $luas');
 }
